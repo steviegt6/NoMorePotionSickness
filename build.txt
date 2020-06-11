@@ -1,0 +1,9 @@
+displayName = No More Potion Sickness
+author = Steviegt6 (convicted tomatohpile)
+version = 1.0.4
+homepage = https://forums.terraria.org/index.php?threads/one-off-mods.93889/
+includeSource = false
+hideCode = true
+includePDB = false
+hideResources = true
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*

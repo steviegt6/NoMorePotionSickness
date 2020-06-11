@@ -1,0 +1,12 @@
+Get rid of the mana and potion sickness debuffs. (Slightly configurable)
+
+===========================================
+[c/1C1C1C:Github]
+https://github.com/Steviegt6/
+===========================================
+[c/1C1C1C:Website]
+https://steviegt6.github.io/
+===========================================
+
+[c/151515:v1.0.4]
+- Actually made the mod freaking work. Cleaned up the code.
