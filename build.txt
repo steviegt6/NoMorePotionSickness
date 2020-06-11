@@ -1,6 +1,6 @@
-displayName = No More Potion Sickness/Man Sickness
+displayName = No More Potion Sickness/Mana Sickness
 author = Steviegt6 (convicted tomatohpile)
-version = 1.1.0
+version = 1.1.1
 homepage = https://forums.terraria.org/index.php?threads/one-off-mods.93889/
 includeSource = false
 hideCode = true
