@@ -8,5 +8,5 @@ https://github.com/Steviegt6/
 https://steviegt6.github.io/
 ===========================================
 
-[c/151515:v1.0.4]
-- Actually made the mod freaking work. Cleaned up the code.
+[c/151515:v1.1.0]
+- Actually made the mod freaking work, but this time it supports healing potions.

@@ -31,13 +31,13 @@ namespace NoMorePotionSickness
 
         [Label("Constant Mana Flower effect")]
         [DefaultValue(false)]
-        public bool RemoveMF; //Remove mother fvcker
+        public bool ConstantMF; //Remove mother fvcker
     }
     public class NoMorePotionSicknessModPlayer : ModPlayer
     {
         public override void PostUpdateEquips()
         {
-            if (Config.Instance.RemoveMF)
+            if (Config.Instance.ConstantMF)
                 player.manaFlower = true;
         }
         public override void PreUpdate()
